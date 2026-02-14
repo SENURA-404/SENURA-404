@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,100:60efff&height=180&section=header&text=Senura%20Buthmin&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cybersecurity%20%26%20DevOps%20Enthusiast%20%7C%20Sri%20Lanka%20🇱🇰&descSize=16&descAlignY=51"/>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00ff87&center=true&vCenter=true&random=false&width=600&lines=Security+Researcher+%F0%9F%94%90;DevOps+Engineer+%E2%9A%99%EF%B8%8F;CTF+Player+%F0%9F%9A%A9;Linux+Enthusiast+%F0%9F%90%A7;Cloud+Security+Advocate+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
 
