@@ -1,7 +1,5 @@
 <div align="center">
 
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00ff87&center=true&vCenter=true&random=false&width=600&lines=Security+Researcher+%F0%9F%94%90;DevOps+Engineer+%E2%9A%99%EF%B8%8F;CTF+Player+%F0%9F%9A%A9;Linux+Enthusiast+%F0%9F%90%A7;Cloud+Security+Advocate+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=senura-404&label=Profile%20views&color=00d9ff&style=for-the-badge)](https://github.com/senura-404)
@@ -95,8 +93,7 @@ editor: "Text editors > IDEs (vim/neovim supremacy!)"
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=senura-404&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff87&fire=60efff&currStreakLabel=00ff87)](https://git.io/streak-stats)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=senura-404&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff87&icon_color=60efff&text_color=c9d1d9"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senura-404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff87&text_color=c9d1d9"/>
+
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=senura-404&theme=github-compact&hide_border=true&bg_color=0d1117&color=00ff87&line=60efff&point=c9d1d9)](https://github.com/senura-404)
 
